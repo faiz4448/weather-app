@@ -1,11 +1,10 @@
 
-# Nama Proyek
+# Test Github
 
-## Deskripsi
-Proyek ini adalah... [deskripsi singkat 1-2 kalimat]
+## Deskripsi 📚
+Proyek ini adalah Test untuk belajar github,Course yang di ajarkan pak sulaiman
 
 ## Screenshot
-![Screenshot aplikasi](/path/ke/screenshot.png)
 
 ## Cara Instalasi
 ```bash
@@ -106,13 +105,11 @@ cd perpustakaan-digital
 - LocalStorage untuk menyimpan data
 
 ## 👥 Kontributor
-- [Nama Siswa](https://github.com/username) - Developer & Desainer
+- Muh.fhaiz atzir Putra Aminuddin
 
 ## 📄 Lisensi
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
 
-Dibuat dengan ❤️ pada program 1 Sekolah 1 Programmer# weather-app
-# weather-app
-# weather-app
+Dibuat dengan ❤️ pada program 1 Sekolah 1 Programmer
